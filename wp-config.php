@@ -15,7 +15,6 @@
  */
 
 // ** MySQL settings - You can get this info from your web host ** //
-// Added by ER to test GIT -> Seems to be working from Eclipse
 /** The name of the database for WordPress */
 define('DB_NAME', '1988669_orient');
 
